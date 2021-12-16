@@ -1,0 +1,2 @@
+all: LW5Y1S1.c MatrixInteger.c
+		gcc -std=c99 -o LW5Y1S1 LW5Y1S1.c MatrixInteger.c

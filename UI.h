@@ -1,0 +1,5 @@
+enum Menu
+{
+    EXIT,
+    SHOW
+};
